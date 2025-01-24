@@ -1,6 +1,6 @@
 # Min Max Solvers
 
-This repo contains a progression of [min-max](https://en.wikipedia.org/wiki/Minimax) solvers that I built while taking my first programming course in C-programming at the Technion - Israel institute of technology in 2017.
+This repo contains a progression of [min-max](https://en.wikipedia.org/wiki/Minimax) solvers that I built for fun while taking my first programming course in C-programming at the Technion - Israel institute of technology in 2017.
 
 I've left the code completely untouched since then, but it's still working great.
 
