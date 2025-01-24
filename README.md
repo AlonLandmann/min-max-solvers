@@ -1,6 +1,6 @@
 # Min Max Solvers
 
-This repo contains a progression of [min-max](https://en.wikipedia.org/wiki/Minimax#:~:text=Minimax%20(sometimes%20Minmax%2C%20MM%20or,to%20maximize%20the%20minimum%20gain.) solvers that I built while taking my first ever programming course in C-programming at the Technion - Israel institute of technology in 2017.
+This repo contains a progression of [min-max](https://en.wikipedia.org/wiki/Minimax) solvers that I built while taking my first programming course in C-programming at the Technion - Israel institute of technology in 2017.
 
 I've left the code completely untouched since then, but it's still working great.
 
@@ -12,9 +12,9 @@ Before starting the game the user is prompted to determine the strength of the c
 
 When learning python seven years later, I've rebuilt these solvers in python, but lo and behold they turned out much much slower and worse than the ones I built as a newbie in 2017. C just works better.
 
-Please give the connect-four game a try if you're interested, it's a really strong and formidable oppoennt, and I'm quite sure level 4, 5, and up are quite tough to beat. I don't think I've ever beaten them.
+Please give the connect-four game a try if you're interested, it's a really strong and formidable opponent, and I'm quite sure level 4, 5, and higher are quite tough to beat. I don't think I've ever beaten them.
 
-If you don't trust the executable files, you may have a look at the C code, and recompile them. Just be sure to use the -O3 optimization flag.
+If you don't trust the executable files, you may have a look at the C code, and recompile it. Just be sure to use the -O3 optimization flag.
 
 ```
 gcc -O3 3-connect-four.c -o 3-connect-four
